@@ -11,6 +11,7 @@ This exercise involes
   - i.e. Organize data into facts and dimensions
   - Integrate Snowflake and AWS S3 buckets
   - Develop SQL queries to
+      - Create External Stage and File Format (to access and load data from AWS into SnowflakeDB tables) 
       - Create tables in Snowflake data warehouse
       - Insert/ingest data from AWS S3 into tables
       - Create Dimension and Fact Tables
